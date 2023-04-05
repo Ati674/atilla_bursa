@@ -40,12 +40,14 @@ ___
 ||🔐 Security encrypt datas Bcrypt - Joi
 ||🖼 ElasticSearch
 ||🎢 FTP server - Filezilla
+||☸ API Platform
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
-||🎀 CSS Bootstrap
+||🎀 CSS Bootstrap/Tailwind CSS
 ||🩱  Sass
 ||🎏 VueJS
+||🎏 React -- Coming soon
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub
 ||🔴 SQITCH with Docker or Windows
@@ -56,14 +58,13 @@ ___
 |**ARCHITECTURE**|---|
 ||🎞 Models Views Controllers (MVC)
 ||♾ API RESTful
-||☸ API GraphQL - Apollo Server Express Datasources / Dataloaders
+||☸ API GraphQL
 |**PROGRAMMING**|---|
 ||🕹OOP (Object Oriented Programming)
 |**METHOD**|---|
 ||💢 Agile (Scrum)
 ||🍒 Merise method (CDM, GPM, PDM)
 |**CMS**|---|
-||❇ Strapi
 ||🎫 WordPress
 |**DEPLOYMENT**|---|
 ||♓ Heroku
